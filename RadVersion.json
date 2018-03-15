@@ -1,3 +1,33 @@
-Hello
-World
-!
+{
+	"RadStudioVersion": [{
+		"Name": "Rad Studio 10 Seattle",
+		"Ver": "23.0.20618.2753",
+		"BDSVersion": "17.0",
+		"LicVerStr": "10 Seattle",
+		"Ver": "23.0.20618.2753",
+		"LicHostPID": 8217,
+		"LicHostSKU": 53,
+		"LicDelphiPID": "2023",
+		"LicCBuilderPID": "4020",
+		"BdsPatchInfo": {
+			"Crc": 1494707755,
+			"Sha1": "0f4255ee60dc860bdcf75c3358d03674757474a5",
+			"PatchOffset": 327914,
+			"FinalizeArrayOffset": 2252488
+		},
+		"LicenseManagerPatchInfo": {
+			"Crc": 3496739504,
+			"Sha1": "4ff37906e7283448aecab34c73c8dbe3d45f55a6",
+			"PatchOffset": 1878410,
+			"FinalizeArrayOffset": 6489652
+		},
+		"mOasisRuntimePatchInfo": {
+			"Sha1": "7aa466dd1d2c685edd69ee41d1c8ebc1d2b56bb4",
+			"PatchOffset": 1453245
+		},
+		"SetupGUID": "{09FECC13-2950-4AE6-BB23-05C206979F18}",
+		"ISOUrl": "http://altd.embarcadero.com/download/radstudio/10/delphicbuilder10.iso",
+		"ISOMd5": "9d4bac568aced7f1f82d4a44124fb37c"
+
+	}]
+}
