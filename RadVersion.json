@@ -269,7 +269,7 @@
             "BdsPatchInfo": {
                 "Crc": 3049088607,
                 "FinalizeArrayOffset": 2252676,
-                "PatchOffset": 327249,
+                "PatchOffset": 327262,
                 "Sha1": "e8cc301efc449f90750d921ab73be31d824c08c6"
             },
             "BDSVersion": "17.0",
